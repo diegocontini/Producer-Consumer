@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\dev\\projects\\utfpr\\Producer&Consumer\\App\\Producer&Consumer.csproj",
-      "projectName": "Producer&Consumer",
-      "projectPath": "C:\\dev\\projects\\utfpr\\Producer&Consumer\\App\\Producer&Consumer.csproj",
+      "projectUniqueName": "C:\\dev\\projects\\utfpr\\Producer&Consumer\\App\\ProducerConsumer.csproj",
+      "projectName": "ProducerConsumer",
+      "projectPath": "C:\\dev\\projects\\utfpr\\Producer&Consumer\\App\\ProducerConsumer.csproj",
       "packagesPath": "C:\\Users\\dicon\\.nuget\\packages\\",
       "outputPath": "C:\\dev\\projects\\utfpr\\Producer&Consumer\\App\\obj\\",
       "projectStyle": "PackageReference",

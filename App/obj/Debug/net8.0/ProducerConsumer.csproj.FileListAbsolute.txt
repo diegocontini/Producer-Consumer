@@ -1,0 +1,15 @@
+C:\dev\projects\utfpr\Producer&Consumer\App\bin\Debug\net8.0\ProducerConsumer.exe
+C:\dev\projects\utfpr\Producer&Consumer\App\bin\Debug\net8.0\ProducerConsumer.deps.json
+C:\dev\projects\utfpr\Producer&Consumer\App\bin\Debug\net8.0\ProducerConsumer.runtimeconfig.json
+C:\dev\projects\utfpr\Producer&Consumer\App\bin\Debug\net8.0\ProducerConsumer.dll
+C:\dev\projects\utfpr\Producer&Consumer\App\bin\Debug\net8.0\ProducerConsumer.pdb
+C:\dev\projects\utfpr\Producer&Consumer\App\obj\Debug\net8.0\ProducerConsumer.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\projects\utfpr\Producer&Consumer\App\obj\Debug\net8.0\ProducerConsumer.AssemblyInfoInputs.cache
+C:\dev\projects\utfpr\Producer&Consumer\App\obj\Debug\net8.0\ProducerConsumer.AssemblyInfo.cs
+C:\dev\projects\utfpr\Producer&Consumer\App\obj\Debug\net8.0\ProducerConsumer.csproj.CoreCompileInputs.cache
+C:\dev\projects\utfpr\Producer&Consumer\App\obj\Debug\net8.0\ProducerConsumer.sourcelink.json
+C:\dev\projects\utfpr\Producer&Consumer\App\obj\Debug\net8.0\ProducerConsumer.dll
+C:\dev\projects\utfpr\Producer&Consumer\App\obj\Debug\net8.0\refint\ProducerConsumer.dll
+C:\dev\projects\utfpr\Producer&Consumer\App\obj\Debug\net8.0\ProducerConsumer.pdb
+C:\dev\projects\utfpr\Producer&Consumer\App\obj\Debug\net8.0\ProducerConsumer.genruntimeconfig.cache
+C:\dev\projects\utfpr\Producer&Consumer\App\obj\Debug\net8.0\ref\ProducerConsumer.dll
